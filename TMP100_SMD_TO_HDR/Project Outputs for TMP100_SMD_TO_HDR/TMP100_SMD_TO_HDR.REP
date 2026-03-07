@@ -1,0 +1,298 @@
+*************************************************************
+FileName = TMP100_SMD_TO_HDR.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Component Center
+      File : TMP100_SMD_TO_HDR.GM24
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : TMP100_SMD_TO_HDR.GM23
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : TMP100_SMD_TO_HDR.GM21
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : TMP100_SMD_TO_HDR.GM20
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : TMP100_SMD_TO_HDR.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : TMP100_SMD_TO_HDR.GM15
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : TMP100_SMD_TO_HDR.GM13
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : TMP100_SMD_TO_HDR.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : TMP100_SMD_TO_HDR.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : TMP100_SMD_TO_HDR.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : TMP100_SMD_TO_HDR.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : TMP100_SMD_TO_HDR.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : TMP100_SMD_TO_HDR.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : TMP100_SMD_TO_HDR.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : TMP100_SMD_TO_HDR.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : TMP100_SMD_TO_HDR.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : TMP100_SMD_TO_HDR.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : TMP100_SMD_TO_HDR.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : TMP100_SMD_TO_HDR.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : TMP100_SMD_TO_HDR.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : TMP100_SMD_TO_HDR.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : TMP100_SMD_TO_HDR.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : TMP100_SMD_TO_HDR.GM
+
+
+Used DCodes :
+    D20
+*************************************************************
+

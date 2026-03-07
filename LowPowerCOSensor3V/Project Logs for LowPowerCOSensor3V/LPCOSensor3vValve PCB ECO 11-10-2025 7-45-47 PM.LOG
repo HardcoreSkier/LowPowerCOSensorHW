@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VBAT Pin=Q_3V3_HC-3
+Removed Member From Class: ClassName=LPCOSensor3vValve Member=Q_3V3_HC
+Added Pin To Net: NetName=VBAT Pin=P3-3
+Added Room: Name=LPCOSensor3vValve

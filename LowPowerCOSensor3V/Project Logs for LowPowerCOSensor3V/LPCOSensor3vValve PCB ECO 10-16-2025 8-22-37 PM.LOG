@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NRST Pin=SW_RST-1
+Removed Pin From Net: NetName=GND Pin=SW_RST-3
+Removed Member From Class: ClassName=LPCOSensor3vValve Member=SW_RST
+Added Room: Name=LPCOSensor3vValve

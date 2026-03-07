@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=24V Pin=IC6-1
+Removed Pin From Net: NetName=24V Pin=IC6-2
+Removed Pin From Net: NetName=GND Pin=IC6-3
+Removed Pin From Net: NetName=I2C_SCL Pin=IC6-5
+Removed Pin From Net: NetName=I2C_SDA Pin=IC6-6
+Removed Pin From Net: NetName=GND Pin=IC6-7
+Removed Pin From Net: NetName=GND Pin=IC6-8
+Removed Member From Class: ClassName=LPCOSensor3vValve Member=D_CLAMP1
+Removed Member From Class: ClassName=LPCOSensor3vValve Member=IC6
+Added Component: Designator=P3(TO220)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00002116.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/PACKAGE_INFORMATION/CD00004649.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "2/12/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TO, Thru-Hole, Vertical, Heatsink Mounted; 3 In-Line Leads; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TO220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "ver3.0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=24V Pin=C_TRG4-2
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=24V Pin=P3-2
+Added Pin To Net: NetName=VBAT Pin=P3-3
+Change Net Name : Old Net Name=24V New Net Name=3V3HC
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component P3 LD1117AV33
+Added Room: Name=LPCOSensor3vValve

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=FIRE_EXTINGUISHER-1
+Removed Pin From Net: NetName=GND Pin=Q_RLY-3
+Added Pin To Net: NetName=NetFIRE_EXTINGUISHER_1 Pin=FIRE_EXTINGUISHER-1
+Added Pin To Net: NetName=NetFIRE_EXTINGUISHER_1 Pin=Q_RLY-3
+Added Net: Name=NetFIRE_EXTINGUISHER_1
+Added Room: Name=LPCOSensor3vValve

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=P4-1
+Removed Pin From Net: NetName=3V3 Pin=PWR_SL_3V3-2
+Removed Pin From Net: NetName=NetC_PWR2_1 Pin=PWR_SL_3V3-3
+Removed Pin From Net: NetName=V_PROTECT Pin=PWR_SW_LDO-2
+Removed Member From Class: ClassName=LPCOSensor3vValve Member=P4
+Removed Member From Class: ClassName=LPCOSensor3vValve Member=PWR_SL_3V3
+Removed Member From Class: ClassName=LPCOSensor3vValve Member=PWR_SW_LDO
+Added Room: Name=LPCOSensor3vValve

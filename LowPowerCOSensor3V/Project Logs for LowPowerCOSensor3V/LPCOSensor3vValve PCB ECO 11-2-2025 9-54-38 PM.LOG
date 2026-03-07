@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=V_PROTECT Pin=PWR_SW_NO_PROTECT-1
+Removed Pin From Net: NetName=Target1 Pin=PWR_SW_NO_PROTECT-2
+Removed Member From Class: ClassName=LPCOSensor3vValve Member=PWR_SW_NO_PROTECT
+Added Room: Name=LPCOSensor3vValve

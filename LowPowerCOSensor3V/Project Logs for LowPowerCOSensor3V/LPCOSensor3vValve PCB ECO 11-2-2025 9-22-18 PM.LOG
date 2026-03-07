@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=BT3V-2
+Removed Pin From Net: NetName=3V3 Pin=R_CAP_CHRG_OPT-1
+Removed Pin From Net: NetName=3V3 Pin=SW_ACT-2
+Removed Pin From Net: NetName=FIRE_EXT Pin=SW_ACT-4
+Removed Member From Class: ClassName=LPCOSensor3vValve Member=R_CAP_CHRG_OPT
+Removed Member From Class: ClassName=LPCOSensor3vValve Member=SW_ACT
+Change Component Footprint: Designator=BT3V Old Footprint=BAT-2 New Footprint=KF1282542P
+Change Component Comment : Designator=BT3V Old Comment=Battery New Comment=KF128-2.54-2P
+Change component parameters: Designator = "BT3V" ("BT3V"); Footprint = "BAT-2"; UniqueID = "\JWVFZYTN" ("\JWVFZYTN")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://jirorwxhqiillo5p.ldycdn.com/KF128-2.54-aidqpBpqKirRliSqmrqirlki.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "9.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "CIXI KEFA ELECTRONICS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "KF128-2.54-2P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BT3V-1
+Change Net Name : Old Net Name=NetQ_RLY_1 New Net Name=FIRE_EXT_FET
+Added Pin To Net: NetName=FIRE_TRG_CHRG Pin=MCU1-2
+Added Pin To Net: NetName=FIRE_TRG_CHRG Pin=Q_3V3_HC-1
+Added Net: Name=FIRE_TRG_CHRG
+Added Pin To Net: NetName=NetBT3V_2 Pin=BT3V-2
+Added Pin To Net: NetName=NetBT3V_2 Pin=PWR_SW-2
+Added Net: Name=NetBT3V_2
+Added Room: Name=LPCOSensor3vValve

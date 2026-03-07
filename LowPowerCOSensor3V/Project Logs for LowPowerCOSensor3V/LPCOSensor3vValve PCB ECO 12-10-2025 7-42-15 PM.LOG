@@ -1,0 +1,54 @@
+Change Net Name : Old Net Name=NetIC3_2 New Net Name=T-
+Change Net Name : Old Net Name=NetIC3_3 New Net Name=T+
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component C_AMP1 CAP 15pF 50V 0805(2012)
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component C_AMP2 CAP 15pF 50V 0805(2012)
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component C_AMP3 C0805C104K5RALTU
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component C_AMP4 CC0805KFX7R9BB105
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component C_PWR1 CC0805MKX5R8BB226
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component C_PWR2 GRM21BR61A476ME15K
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component C_PWR3 CC0805KFX7R9BB105
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component C_PWR4 08053C103JAT2A
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component C_PWR11 CC0805MKX5R8BB226
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component C_PWR12 CC0805MKX5R8BB226
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component C_RST1 C0805C104K5RALTU
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component C_SENSOR1 CAP 15pF 50V 0805(2012)
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component C_SENSOR2 CAP 15pF 50V 0805(2012)
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component C_TRG4 EEUTA1A471
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component FB_PWR 0ohm
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component FB_VDDA 0ohm
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component FIRE_EXTINGUISHER KF128-2.54-2P
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component IC1 LPV811DBVR
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component IC3 MAX31855JASA+
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component L_PWR1 SRR0603-10uh
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component LED_ACT APHCM2012CGCK-F01
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component LED_FAULT SML-LXT0805IW-TR
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component LED_ON WHITE LED 3.0v20ma
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component MCU1 STM32F031F6P6TR
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component P1 LM74700
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component P2 TPS62056
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component P3 LD1117S33
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component PWR_SW M20-9990246
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component Q1 MMBFJ270
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component Q2 MMBFJ270
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component Q_LDO1 AO3401A
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component Q_PROTECT DMN2041L-7
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component Q_RLY DMN2041L-7
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component R_AMP1 KTR10EZPJ135
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component R_AMP2 AC0805FR-0749K9L
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component R_BOOT1 10K 5% 0805(2012)
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component R_D1 RMCF0805JT180R
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component R_D2 RT0805BRB07470RL
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component R_D3 RMCF0805JT180R
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component R_FIRECTL1 RMCF0805JT180R
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component R_FIRECTL2 10K 5% 0805(2012)
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component R_LDO1 RMCF0805JT180R
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component R_PP1 RK73H2ATTD2004F
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component R_PP2 RK73H2ARTTD2554F
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component SS1 TGS5141-P00
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component SWD Header DBG
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component THERMO_K PCC-SMP-CV-K
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component TP_3V3 5004
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component TP_CO_OUT 5004
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component TP_GND 5004
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component UART2 M20-9990246
+Added Room: Name=LPCOSensor3vValve

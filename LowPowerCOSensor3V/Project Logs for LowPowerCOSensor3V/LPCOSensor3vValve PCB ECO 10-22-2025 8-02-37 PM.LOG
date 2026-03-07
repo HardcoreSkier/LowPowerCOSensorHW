@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=3V3 Pin=C_PWR2-1
+Added Pin To Net: NetName=3V3 Pin=C_PWR3-1
+Added Pin To Net: NetName=3V3 Pin=C_PWR4-1
+Added Pin To Net: NetName=3V3 Pin=C_PWR5-1
+Added Pin To Net: NetName=I2C_SCL Pin=FHD1-1
+Added Pin To Net: NetName=I2C_SDA Pin=FHD2-3
+Added Pin To Net: NetName=3V3 Pin=L_PWR1-2
+Added Pin To Net: NetName=3V3 Pin=P2-5
+Added Pin To Net: NetName=I2C_SCL Pin=R_TMP_PP1-1
+Added Pin To Net: NetName=I2C_SDA Pin=R_TMP_PP2-1
+Added Room: Name=LPCOSensor3vValve

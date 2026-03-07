@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=3V3 Pin=D_RELAY1-1
+Removed Pin From Net: NetName=3V3 Pin=S1-1
+Removed Pin From Net: NetName=GND Pin=S1-3
+Removed Pin From Net: NetName=3V3HC Pin=S1-5
+Removed Pin From Net: NetName=GND Pin=S1-8
+Removed Pin From Net: NetName=GND Pin=S1-9
+Removed Pin From Net: NetName=GND Pin=S1-10
+Removed Member From Class: ClassName=LPCOSensor3vValve Member=D_RELAY1
+Removed Member From Class: ClassName=LPCOSensor3vValve Member=S1
+Added Component: Designator=R_FIRECTL2(RESC2013X60X40ML20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERA6AEB123V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3HC Pin=FIRE_EXTINGUISHER-2
+Added Pin To Net: NetName=GND Pin=Q_RLY-3
+Added Pin To Net: NetName=GND Pin=R_FIRECTL2-1
+Added Pin To Net: NetName=FIRE_EXT_FET Pin=R_FIRECTL2-2
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component R_FIRECTL2 10k
+Added Room: Name=LPCOSensor3vValve

@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=VBAT Pin=Q_LDO1-2
+Removed Member From Class: ClassName=LPCOSensor3vValve Member=Q_LDO1
+Removed Member From Class: ClassName=LPCOSensor3vValve Member=R_LDO1
+Change Component Footprint: Designator=SWD Old Footprint=HDR1X5 New Footprint=SMTC-MTLW-105-05-X-S-190
+Change Component Comment : Designator=SWD Old Comment=Header DBG New Comment=MTLW-105-05-T-S-190
+Change Managed Component Library Link : Designator=SWD Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=338D277A-1BBA-4D46-9CA8-4E4DA219EE6B Old RevisionGUID= New RevisionGUID=F6BA9222-8E2E-418E-82C0-C5A9DF06CBEB
+Change component parameters: Designator = "SWD" ("SWD"); Footprint = "HDR1X5"; UniqueID = "\XWOZUSYE" ("\XWOZUSYE")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.samtec.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.samtec.com/documents/webfiles/pdf/MTLW_TH.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.samtec.com/documents/webfiles/cpdf/MTLW-1XX-XX-XX-X-XXX-XX-XX-MKT1.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "F-214"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Through-hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Low Profile Terminal Assembly"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "MTLW-105-05-X-S-190"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "T, 6/1991"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "MTLW-105-05-T-S-190"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range"; Value = "-55 to 105 degC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBAT Pin=P3-3
+Added Room: Name=LPCOSensor3vValve

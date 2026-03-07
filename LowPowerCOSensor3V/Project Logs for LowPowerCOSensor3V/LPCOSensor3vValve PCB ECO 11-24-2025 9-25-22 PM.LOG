@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=LPCOSensor3vValve Member=CONN1
+Added Component: Designator=THERMO1(PCC_SMP_CV_K)
+Added Pin To Net: NetName=NetIC3_2 Pin=IC3-2
+Added Pin To Net: NetName=NetIC3_2 Pin=THERMO1-0
+Added Net: Name=NetIC3_2
+Added Pin To Net: NetName=NetIC3_3 Pin=IC3-3
+Added Pin To Net: NetName=NetIC3_3 Pin=THERMO1-1
+Added Net: Name=NetIC3_3
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component THERMO1 PCC-SMP-CV-K
+Added Room: Name=LPCOSensor3vValve

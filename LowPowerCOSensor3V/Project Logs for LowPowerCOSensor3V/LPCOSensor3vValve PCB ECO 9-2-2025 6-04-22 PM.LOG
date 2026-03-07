@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=24V Pin=C_FF1-1
+Removed Pin From Net: NetName=GND Pin=C_FF1-2
+Removed Pin From Net: NetName=GND Pin=C_TRG1-1
+Removed Pin From Net: NetName=24V Pin=C_TRG1-2
+Removed Pin From Net: NetName=GND Pin=C_TRG2-1
+Removed Pin From Net: NetName=24V Pin=C_TRG2-2
+Removed Pin From Net: NetName=GND Pin=C_TRG3-1
+Removed Pin From Net: NetName=24V Pin=C_TRG3-2
+Removed Pin From Net: NetName=24V Pin=C_TRG4-2
+Removed Pin From Net: NetName=24V Pin=D_BOOST1-1
+Removed Pin From Net: NetName=24V Pin=D_CLAMP1-1
+Removed Pin From Net: NetName=GND Pin=D_CLAMP1-2
+Removed Pin From Net: NetName=VBAT Pin=L_BOOST1-2
+Removed Pin From Net: NetName=GND Pin=P3-2
+Removed Pin From Net: NetName=CAP_CHRG_EN Pin=P3-4
+Removed Pin From Net: NetName=VBAT Pin=P3-5
+Removed Pin From Net: NetName=24V Pin=R_BOOST1-1
+Removed Pin From Net: NetName=GND Pin=R_BOOST2-1
+Removed Member From Class: ClassName=COSensor Member=C_FF1
+Removed Member From Class: ClassName=COSensor Member=C_TRG1
+Removed Member From Class: ClassName=COSensor Member=C_TRG2
+Removed Member From Class: ClassName=COSensor Member=C_TRG3
+Removed Member From Class: ClassName=COSensor Member=D_BOOST1
+Removed Member From Class: ClassName=COSensor Member=L_BOOST1
+Removed Member From Class: ClassName=COSensor Member=P3
+Removed Member From Class: ClassName=COSensor Member=R_BOOST1
+Removed Member From Class: ClassName=COSensor Member=R_BOOST2
+Added Pin To Net: NetName=NetC_TRG4_2 Pin=C_TRG4-2
+Added Pin To Net: NetName=NetC_TRG4_2 Pin=D_CLAMP1-1
+Added Net: Name=NetC_TRG4_2
+Change Class Name : Old Net Name=COSensor New Net Name=LPCOSensor3vValve
+Added Room: Name=LPCOSensor3vValve

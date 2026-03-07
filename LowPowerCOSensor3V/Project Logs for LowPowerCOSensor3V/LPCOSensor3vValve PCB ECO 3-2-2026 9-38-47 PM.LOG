@@ -1,0 +1,88 @@
+Removed Pin From Net: NetName=GND Pin=C_PWR2-2
+Removed Pin From Net: NetName=GND Pin=C_PWR3-2
+Removed Pin From Net: NetName=GND Pin=C_PWR4-1
+Added Component: Designator=L_PWR1(BOUR-SRR0603_V)
+Add component (AddParameter): Name = "3D Model"; Value = "SRR0603.stp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Inductors,Coils,Chokes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Saturation"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.bourns.com/docs/Product-Datasheets/SRR0603.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "09/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance (DCR)"; Value = "120mOhmMax"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EDA / CAD Models"; Value = "DownloadfromAcceleratedDesigns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "FixedInductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency - Self Resonant"; Value = "25MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency - Test"; Value = "1kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.130"(3.30mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "10¶ÃH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.bourns.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material - Core"; Value = "Ferrite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "SRRSeries"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°„C~125°„C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "SRR0603-100MLTR
+SRR0603100ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "Nonstandard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 6.5 x 6.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SRR00603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape&Reel(TR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCN Assembly/Origin"; Value = "MagneticproductsOct/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Training Modules"; Value = "MagneticProductOverview"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Q @ Freq"; Value = "16@2.52MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "SRR0603SeriesMaterialDeclaration"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "SRR0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Shielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.256"Lx0.256"W(6.50mmx6.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "1,000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "°¿20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Wirewound"; VariantName = "[No Variations]"
+Added Component: Designator=P2(DGS10_L)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-187-BA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=TPS62056&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/litv/pdf/mpds373"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "URL Link1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "Samples URL:http://www.ti.com/product/tps62056#samples"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SLVS432E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Duty Cycle(Max)(%)"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Iout(Max)(A)"; Value = "0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Iq(Typ)(mA)"; Value = "0.012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "10-Pin Thin Shrink Small Outline Package 0.5 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DGS10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revC, Feb-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TPS62056DGSRG4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preset Vout(V)"; Value = "3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Catalog"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Regulated Outputs(#)"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubFamily"; Value = "Step-Down Regulator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Current Limit(Typ)(A)"; Value = "1.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Synchronous Rectification"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Topology"; Value = "Buck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vin(Max)(V)"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vin(Min)(V)"; Value = "2.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vout(Max)(V)"; Value = "3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vout(Min)(V)"; Value = "3.3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetL_PWR1_1 Pin=L_PWR1-1
+Added Pin To Net: NetName=V_PROTECT Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Pin To Net: NetName=GND Pin=P2-4
+Added Pin To Net: NetName=GND Pin=P2-6
+Added Pin To Net: NetName=GND Pin=P2-7
+Added Pin To Net: NetName=V_PROTECT Pin=P2-8
+Added Pin To Net: NetName=NetL_PWR1_1 Pin=P2-9
+Added Pin To Net: NetName=GND Pin=P2-10
+Added Pin To Net: NetName=NetC_PWR2_2 Pin=C_PWR2-2
+Added Pin To Net: NetName=NetC_PWR2_2 Pin=C_PWR3-2
+Added Pin To Net: NetName=NetC_PWR2_2 Pin=C_PWR4-1
+Added Net: Name=NetC_PWR2_2
+Added Pin To Net: NetName=NetL_PWR1_2 Pin=L_PWR1-2
+Added Pin To Net: NetName=NetL_PWR1_2 Pin=P2-5
+Added Net: Name=NetL_PWR1_2
+Added Class: Name=3v3BuckConverter

@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetFB_PWR_1 Pin=C_PWR11-1
+Added Pin To Net: NetName=NetFB_PWR_1 Pin=P1-6
+Added Pin To Net: NetName=NetFB_PWR_1 Pin=Q_PROTECT-2
+Change Net Name : Old Net Name=NetFB_PWR_1 New Net Name=Target1
+Added Room: Name=LPCOSensor3vValve

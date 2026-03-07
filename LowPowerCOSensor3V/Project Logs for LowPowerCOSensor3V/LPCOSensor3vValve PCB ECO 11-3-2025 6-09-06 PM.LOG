@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=3V3 Pin=C_PWR3-1
+Removed Pin From Net: NetName=GND Pin=C_PWR3-2
+Removed Member From Class: ClassName=LPCOSensor3vValve Member=C_PWR5
+Change Component Footprint: Designator=PWR_SW Old Footprint=FP-M20-9990246-MFG New Footprint=SS12D06L5
+Change Component Comment : Designator=PWR_SW Old Comment=M20-9990246 New Comment=SS-12D06L5
+Change Component Designator: OldDesignator=C_PWR4 NewDesignator=C_PWR3
+Change Component Designator: OldDesignator=C_PWR5 NewDesignator=C_PWR4
+Change Managed Component Library Link : Designator=PWR_SW Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E8102906-A097-42EA-A92F-E302815CD6B8 New ItemGUID= Old RevisionGUID=C8B057CE-5700-4E89-A6FE-2729F489FB75 New RevisionGUID=
+Change component parameters: Designator = "PWR_SW" ("PWR_SW"); Footprint = "FP-M20-9990246-MFG"; UniqueID = "\LNHHJZLM" ("\LNHHJZLM")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.helloxkb.com/public/images/pdf/SS-12D06XXX.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "6.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "XKB Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SS-12D06L5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Room: Name=LPCOSensor3vValve

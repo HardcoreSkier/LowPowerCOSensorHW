@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [LowPowerCOSensor3V.PrjPcb]
+   Generated File[LPCOSensor3vValve.TXT]
+   Generated File[LPCOSensor3vValve.DRL]
+   Generated File[LPCOSensor3vValve.LDP]
+   Generated File[LPCOSensor3vValve.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 10:56:24 PM On 3/7/2026

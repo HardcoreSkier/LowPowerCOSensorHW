@@ -1,0 +1,5 @@
+Change Component Comment : Designator=P3 Old Comment=LD1117S33CTR New Comment=LD1117S33
+Change Component Comment : Designator=P1 Old Comment=LM74700QDBVRQ1 New Comment=LM74700
+Change Component Comment : Designator=P2 Old Comment=TPS62056DGSRG4 New Comment=TPS62056
+Change Component Designator: OldDesignator=THERMO1 NewDesignator=THERMO_K
+Added Room: Name=LPCOSensor3vValve

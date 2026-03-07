@@ -1,0 +1,4 @@
+Change Component Comment : Designator=R_LED1 Old Comment=0805 39R New Comment=39R
+Change Component Comment : Designator=R_LED3 Old Comment=0805 39R New Comment=39R
+Change Component Comment : Designator=R_LED2 Old Comment=0805 180R New Comment=180R
+Added Room: Name=LPCOSensor3vValve

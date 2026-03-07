@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=GND Pin=SWD-2
+Removed Pin From Net: NetName=SWDIO Pin=SWD-3
+Removed Pin From Net: NetName=SWCLK Pin=SWD-4
+Added Component: Designator=IC2(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/XLSEMI-XL1509-ADJE1_C74192.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "XLSEMI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "XL1509-ADJE1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L_PWR2(BOUR-SRR0603_V)
+Add component (AddParameter): Name = "3D Model"; Value = "SRR0603.stp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Inductors,Coils,Chokes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Saturation"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.bourns.com/docs/Product-Datasheets/SRR0603.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "09/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance (DCR)"; Value = "120mOhmMax"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EDA / CAD Models"; Value = "DownloadfromAcceleratedDesigns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "FixedInductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency - Self Resonant"; Value = "25MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency - Test"; Value = "1kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.130"(3.30mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "10¶ÃH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.bourns.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material - Core"; Value = "Ferrite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "SRRSeries"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°„C~125°„C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "SRR0603-100MLTR
+SRR0603100ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "Nonstandard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 6.5 x 6.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SRR00603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape&Reel(TR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCN Assembly/Origin"; Value = "MagneticproductsOct/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Training Modules"; Value = "MagneticProductOverview"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Q @ Freq"; Value = "16@2.52MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "SRR0603SeriesMaterialDeclaration"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "SRR0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Shielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.256"Lx0.256"W(6.50mmx6.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "1,000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "°¿20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Wirewound"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V_PROTECT Pin=IC2-1
+Added Pin To Net: NetName=3V3 Pin=IC2-3
+Added Pin To Net: NetName=GND Pin=IC2-5
+Added Pin To Net: NetName=GND Pin=IC2-6
+Added Pin To Net: NetName=GND Pin=IC2-7
+Added Pin To Net: NetName=GND Pin=IC2-8
+Added Pin To Net: NetName=3V3 Pin=L_PWR2-1
+Added Pin To Net: NetName=CO_OUT Pin=MCU1-8
+Added Pin To Net: NetName=SWCLK Pin=SWD-2
+Added Pin To Net: NetName=GND Pin=SWD-3
+Added Pin To Net: NetName=SWDIO Pin=SWD-4
+Added Pin To Net: NetName=NetIC2_2 Pin=IC2-2
+Added Pin To Net: NetName=NetIC2_2 Pin=L_PWR2-2
+Added Net: Name=NetIC2_2
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component IC2 XL1509-ADJE1
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component L_PWR2 SRR0603-10uh
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component SS1 TGS5141-P00
+Added Room: Name=LPCOSensor3vValve
