@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=NetIC3_2 Pin=IC3-2
+Added Pin To Net: NetName=NetIC3_2 Pin=THERMO_K-0
+Added Net: Name=NetIC3_2
+Added Pin To Net: NetName=NetIC3_3 Pin=IC3-3
+Added Pin To Net: NetName=NetIC3_3 Pin=THERMO_K-1
+Added Net: Name=NetIC3_3
+Added Pin To Net: NetName=NetIC4_2 Pin=IC4-2
+Added Pin To Net: NetName=NetIC4_2 Pin=THERMO_K2-0
+Added Net: Name=NetIC4_2
+Added Pin To Net: NetName=NetIC4_3 Pin=IC4-3
+Added Pin To Net: NetName=NetIC4_3 Pin=THERMO_K2-1
+Added Net: Name=NetIC4_3

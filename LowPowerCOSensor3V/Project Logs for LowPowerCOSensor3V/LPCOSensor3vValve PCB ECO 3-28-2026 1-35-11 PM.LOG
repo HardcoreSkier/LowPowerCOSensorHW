@@ -1,0 +1,4 @@
+Added Component: Designator=THERMO_K2(PCC_SMP_CV_K)
+Added Pin To Net: NetName=T- Pin=THERMO_K2-0
+Added Pin To Net: NetName=T+ Pin=THERMO_K2-1
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component THERMO_K2 PCC-SMP-CV-K
