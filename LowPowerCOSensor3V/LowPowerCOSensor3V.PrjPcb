@@ -49,6 +49,40 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\THERMOCOUPLE.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HVUXHOLN
+
+[Document2]
+DocumentPath=..\THERMOCOUPLE.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OYPFIUAT
+
+[Document3]
 DocumentPath=..\LPCOSensor3vValve.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -65,7 +99,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VGFOOGTX
 
-[Document2]
+[Document4]
 DocumentPath=..\LPCOSensor3vValve.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -82,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MHNVMUQR
 
-[Document3]
+[Document5]
 DocumentPath=LowPowerCOSensor3V.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1341,7 +1375,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=VGFOOGTX|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16908289~1,16908291~1,16908292~1,16908293~1,16908299~1,16908300~1,16908301~1,16908303~1,16908304~1,16908308~1,16908309~1,16908311~1,16908312~1,16973837~1,16973848~1,16973849~1|PlotBoardProfile=True|PlotBoardProfileFileName=LPCOSensor3vValve.GM|PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName=LPCOSensor3vValve.GD1|PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName=LPCOSensor3vValve.GG1|PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UserLayerName.Caption0=LPCOSensor3vValve.GBO|UserLayerName.Caption1=LPCOSensor3vValve.GTP|UserLayerName.Caption10=LPCOSensor3vValve.GPB|UserLayerName.Caption11=LPCOSensor3vValve.GM11|UserLayerName.Caption12=LPCOSensor3vValve.GKO|UserLayerName.Caption13=LPCOSensor3vValve.GBS|UserLayerName.Caption14=LPCOSensor3vValve.GM16|UserLayerName.Caption15=LPCOSensor3vValve.GM1|UserLayerName.Caption16=LPCOSensor3vValve.GBL|UserLayerName.Caption17=LPCOSensor3vValve.GM5|UserLayerName.Caption18=LPCOSensor3vValve.GM15|UserLayerName.Caption19=LPCOSensor3vValve.GM24|UserLayerName.Caption2=LPCOSensor3vValve.GTO|UserLayerName.Caption20=LPCOSensor3vValve.GM3|UserLayerName.Caption21=LPCOSensor3vValve.GM20|UserLayerName.Caption22=LPCOSensor3vValve.GTL|UserLayerName.Caption23=LPCOSensor3vValve.GBP|UserLayerName.Caption3=LPCOSensor3vValve.GTS|UserLayerName.Caption4=LPCOSensor3vValve.GM4|UserLayerName.Caption5=LPCOSensor3vValve.GM12|UserLayerName.Caption6=LPCOSensor3vValve.GM13|UserLayerName.Caption7=LPCOSensor3vValve.GM21|UserLayerName.Caption8=LPCOSensor3vValve.GM23|UserLayerName.Caption9=LPCOSensor3vValve.GPT|UserLayerName.Count=24|UserLayerName.Layer0=16973831|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16973849|UserLayerName.Layer11=16908299|UserLayerName.Layer12=16973837|UserLayerName.Layer13=16973835|UserLayerName.Layer14=16908304|UserLayerName.Layer15=16908289|UserLayerName.Layer16=16842751|UserLayerName.Layer17=16908293|UserLayerName.Layer18=16908303|UserLayerName.Layer19=16908312|UserLayerName.Layer2=16973830|UserLayerName.Layer20=16908291|UserLayerName.Layer21=16908308|UserLayerName.Layer22=16777217|UserLayerName.Layer23=16973833|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16908292|UserLayerName.Layer5=16908300|UserLayerName.Layer6=16908301|UserLayerName.Layer7=16908309|UserLayerName.Layer8=16908311|UserLayerName.Layer9=16973848|DocumentPath=C:\Users\faction\Documents\LowPowerCOSensor\LowPowerCOSensorHW\LPCOSensor3vValve.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=VGFOOGTX|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16908289~1,16908291~1,16908292~1,16908293~1,16908299~1,16908300~1,16908301~1,16908303~1,16908304~1,16908308~1,16908309~1,16908311~1,16908312~1,16973837~1,16973848~1,16973849~1|PlotBoardProfile=True|PlotBoardProfileFileName=LPCOSensor3vValve.GM|PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName=LPCOSensor3vValve.GD1|PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName=LPCOSensor3vValve.GG1|PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UserLayerName.Caption0=LPCOSensor3vValve.GBO|UserLayerName.Caption1=LPCOSensor3vValve.GTP|UserLayerName.Caption10=LPCOSensor3vValve.GPB|UserLayerName.Caption11=LPCOSensor3vValve.GM11|UserLayerName.Caption12=LPCOSensor3vValve.GBP|UserLayerName.Caption13=LPCOSensor3vValve.GBS|UserLayerName.Caption14=LPCOSensor3vValve.GM16|UserLayerName.Caption15=LPCOSensor3vValve.GM1|UserLayerName.Caption16=LPCOSensor3vValve.GBL|UserLayerName.Caption17=LPCOSensor3vValve.GM5|UserLayerName.Caption18=LPCOSensor3vValve.GM15|UserLayerName.Caption19=LPCOSensor3vValve.GM24|UserLayerName.Caption2=LPCOSensor3vValve.GTO|UserLayerName.Caption20=LPCOSensor3vValve.GM3|UserLayerName.Caption21=LPCOSensor3vValve.GM20|UserLayerName.Caption22=LPCOSensor3vValve.GTL|UserLayerName.Caption23=LPCOSensor3vValve.GKO|UserLayerName.Caption3=LPCOSensor3vValve.GTS|UserLayerName.Caption4=LPCOSensor3vValve.GM4|UserLayerName.Caption5=LPCOSensor3vValve.GM12|UserLayerName.Caption6=LPCOSensor3vValve.GM13|UserLayerName.Caption7=LPCOSensor3vValve.GM21|UserLayerName.Caption8=LPCOSensor3vValve.GM23|UserLayerName.Caption9=LPCOSensor3vValve.GPT|UserLayerName.Count=24|UserLayerName.Layer0=16973831|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16973849|UserLayerName.Layer11=16908299|UserLayerName.Layer12=16973833|UserLayerName.Layer13=16973835|UserLayerName.Layer14=16908304|UserLayerName.Layer15=16908289|UserLayerName.Layer16=16842751|UserLayerName.Layer17=16908293|UserLayerName.Layer18=16908303|UserLayerName.Layer19=16908312|UserLayerName.Layer2=16973830|UserLayerName.Layer20=16908291|UserLayerName.Layer21=16908308|UserLayerName.Layer22=16777217|UserLayerName.Layer23=16973837|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16908292|UserLayerName.Layer5=16908300|UserLayerName.Layer6=16908301|UserLayerName.Layer7=16908309|UserLayerName.Layer8=16908311|UserLayerName.Layer9=16973848|DocumentPath=C:\Users\faction\Documents\LowPowerCOSensor\LowPowerCOSensorHW\LPCOSensor3vValve.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
