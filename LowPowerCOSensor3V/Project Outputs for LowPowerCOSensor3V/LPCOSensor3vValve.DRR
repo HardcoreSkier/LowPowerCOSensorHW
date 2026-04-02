@@ -1,20 +1,22 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: LPCOSensor3vValve.PcbDoc   3/28/2026  2:05:54 PM
+NCDrill File Report For: LPCOSensor3vValve.PcbDoc   4/1/2026  10:19:26 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
-ASCII RoundHoles File : LPCOSensor3vValve.TXT
+ASCII RoundHoles File : LPCOSensor3vValve-RoundHoles.TXT
+ASCII SlotHoles File : LPCOSensor3vValve-SlotHoles.TXT
 EIA File   : LPCOSensor3vValve.DRL
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      10mil (0.254mm)                                           Round             28        PTH        6.58inch (167.02mm)
+T1      10mil (0.254mm)                                           Round             28        PTH        7.34inch (186.42mm)
 T2      32mil (0.8mm)                                             Round             2         PTH        0.20inch (5.00mm)
 T3      35mil (0.9mm)                                             Round             4         PTH        0.30inch (7.62mm)
-T4      40mil (1.02mm)                                            Round             11        PTH        3.29inch (83.49mm)
-T5      51mil (1.3mm)                                             Round             4         PTH        1.75inch (44.44mm)
-T6      87mil (2.2mm)                                             Round             4         PTH        0.85inch (21.47mm)
+T4      39mil (1mm)                                               Slot              3         PTH        1.00inch (25.32mm)
+T5      40mil (1.02mm)                                            Round             9         PTH        2.48inch (63.11mm)
+T6      51mil (1.3mm)                                             Round             5         PTH        0.90inch (22.98mm)
+T7      87mil (2.2mm)                                             Round             4         PTH        0.83inch (21.21mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              53
+Totals                                                                              55
 
 Total Processing Time (hh:mm:ss) : 00:00:00
