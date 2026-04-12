@@ -1,0 +1,55 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\faction\Documents\LowPowerCOSensor\LowPowerCOSensorHW\BLEDemoBoard\BleDemoBoard\BleDemoBoard.PcbDoc
+Date     : 4/10/2026
+Time     : 9:35:41 PM
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=15mil) (Max=15mil) (Preferred=15mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad P1-2(1239.016mil,1575mil) on Top Layer And Text "CC0805MKX5R8BB226" (693mil,1552mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad P1-4(1490.984mil,1575mil) on Top Layer And Text "CC0805MKX5R8BB226" (693mil,1552mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+Rule Violations :2
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "CC0805MKX5R8BB226" (693mil,1552mil) on Top Overlay And Track (1292.166mil,1443.11mil)(1292.166mil,1706.89mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "CC0805MKX5R8BB226" (693mil,1552mil) on Top Overlay And Track (1437.834mil,1443.11mil)(1437.834mil,1706.89mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (6.082mil < 10mil) Between Text "G" (2740mil,45mil) on Top Overlay And Track (2405mil,120mil)(2805mil,120mil) on Top Overlay Silk Text to Silk Clearance [6.082mil]
+   Violation between Silk To Silk Clearance Constraint: (7.685mil < 10mil) Between Text "LED_LDO" (3399.992mil,1945.065mil) on Top Overlay And Track (3416.614mil,1993.662mil)(3416.614mil,2076.338mil) on Top Overlay Silk Text to Silk Clearance [7.685mil]
+   Violation between Silk To Silk Clearance Constraint: (6.082mil < 10mil) Between Text "V" (2435mil,45mil) on Top Overlay And Track (2405mil,120mil)(2805mil,120mil) on Top Overlay Silk Text to Silk Clearance [6.082mil]
+Rule Violations :5
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 7
+Waived Violations : 0
+Time Elapsed        : 00:00:01

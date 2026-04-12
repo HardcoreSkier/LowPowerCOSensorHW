@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: BleDemoBoard.PcbDoc   4/12/2026  8:43:38 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : BleDemoBoard-RoundHoles.TXT
+ASCII SlotHoles File : BleDemoBoard-SlotHoles.TXT
+EIA File   : BleDemoBoard.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      24mil (0.6mm)                                             Slot              4         PTH        1.37inch (34.90mm)
+T2      28mil (0.711mm)                                           Round             3         PTH        2.75inch (69.77mm)
+T3      35mil (0.9mm)                                             Round             64        PTH        12.97inch (329.44mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              71
+
+Total Processing Time (hh:mm:ss) : 00:00:00
