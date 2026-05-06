@@ -21,8 +21,8 @@ Generating : Bottom 3D Body
 
 Used DCodes :
     D11
+    D12
     D13
-    D15
 *************************************************************
 
 *************************************************************
@@ -34,9 +34,9 @@ Generating : Bottom Courtyard
 
 Used DCodes :
     D11
+    D12
     D13
-    D15
-    D63
+    D62
 *************************************************************
 
 *************************************************************
@@ -44,6 +44,56 @@ Generating : Bottom Assembly
       File : LPCOSensor3vValve.GM20
 
     Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : LPCOSensor3vValve.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D11
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : LPCOSensor3vValve.GM15
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : LPCOSensor3vValve.GM13
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Outline
+      File : LPCOSensor3vValve.GM12
+
+    Adding Layer      : Bottom Component Outline
 
 
 Used DCodes :
@@ -58,41 +108,51 @@ Generating : Top Component Outline
 
 
 Used DCodes :
+    D11
 *************************************************************
 
 *************************************************************
-Generating : Top Pad Master
-      File : LPCOSensor3vValve.GPT
+Generating : Top Assembly
+      File : LPCOSensor3vValve.GM5
 
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Top Assembly
 
 
 Used DCodes :
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D33
-    D34
-    D38
-    D41
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Designator
+      File : LPCOSensor3vValve.GM4
+
+    Adding Layer      : Bottom Designator
+
+
+Used DCodes :
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Top Designator
+      File : LPCOSensor3vValve.GM3
+
+    Adding Layer      : Top Designator
+
+
+Used DCodes :
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : LPCOSensor3vValve.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -107,18 +167,25 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : LPCOSensor3vValve.GBO
+Generating : Bottom Paste
+      File : LPCOSensor3vValve.GBP
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D10
-    D13
-    D14
-    D15
-    D62
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
 *************************************************************
 
 *************************************************************
@@ -133,66 +200,6 @@ Generating : Top Paste
 
 
 Used DCodes :
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : LPCOSensor3vValve.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : LPCOSensor3vValve.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D20
-    D24
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : LPCOSensor3vValve.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
     D15
     D16
     D17
@@ -203,157 +210,6 @@ Used DCodes :
     D22
     D23
     D24
-    D25
-    D33
-    D34
-    D38
-    D41
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : LPCOSensor3vValve.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Component Outline
-      File : LPCOSensor3vValve.GM12
-
-    Adding Layer      : Bottom Component Outline
-
-
-Used DCodes :
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Bottom Designator
-      File : LPCOSensor3vValve.GM4
-
-    Adding Layer      : Bottom Designator
-
-
-Used DCodes :
-    D63
-*************************************************************
-
-*************************************************************
-Generating : Top Component Center
-      File : LPCOSensor3vValve.GM16
-
-    Adding Layer      : Top Component Center
-
-
-Used DCodes :
-    D11
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Top Courtyard
-      File : LPCOSensor3vValve.GM15
-
-    Adding Layer      : Top Courtyard
-
-
-Used DCodes :
-    D11
-    D13
-    D15
-    D63
-*************************************************************
-
-*************************************************************
-Generating : Top Designator
-      File : LPCOSensor3vValve.GM3
-
-    Adding Layer      : Top Designator
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : LPCOSensor3vValve.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D20
-    D24
-    D33
-    D34
-    D38
-    D41
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : LPCOSensor3vValve.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D20
-    D24
-    D33
-    D34
-    D38
-    D41
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
 *************************************************************
 
 *************************************************************
@@ -368,8 +224,8 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D26
     D27
+    D28
     D29
     D30
     D31
@@ -379,17 +235,14 @@ Used DCodes :
     D35
     D36
     D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D53
+    D46
+    D52
+    D54
+    D55
     D56
     D57
+    D58
     D59
-    D60
-    D61
 *************************************************************
 
 *************************************************************
@@ -406,11 +259,13 @@ Generating : Top Solder
 Used DCodes :
     D16
     D17
-    D18
     D19
+    D20
     D21
     D22
     D23
+    D24
+    D25
     D26
     D27
     D28
@@ -423,37 +278,164 @@ Used DCodes :
     D35
     D36
     D37
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : LPCOSensor3vValve.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D60
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : LPCOSensor3vValve.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : LPCOSensor3vValve.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D27
+    D28
+    D31
     D38
     D39
     D40
     D41
     D42
+    D43
+    D44
 *************************************************************
 
 *************************************************************
-Generating : Top Assembly
-      File : LPCOSensor3vValve.GM5
+Generating : Bottom Pad Master
+      File : LPCOSensor3vValve.GPB
 
-    Adding Layer      : Top Assembly
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D13
-    D15
+    D27
+    D28
+    D31
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
 *************************************************************
 
 *************************************************************
-Generating : Top 3D Body
-      File : LPCOSensor3vValve.GM13
+Generating : Bottom Layer
+      File : LPCOSensor3vValve.GBL
 
-    Adding Layer      : Top 3D Body
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D11
-    D12
-    D13
+    D14
+    D27
+    D28
+    D31
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : LPCOSensor3vValve.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
     D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D27
+    D28
+    D31
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
 *************************************************************
 
 *************************************************************
@@ -466,8 +448,8 @@ Generating : Drill Drawing
 
 
 Used DCodes :
+    D63
     D64
-    D65
 *************************************************************
 
 *************************************************************
@@ -480,7 +462,7 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D64
+    D63
 *************************************************************
 
 *************************************************************
@@ -489,6 +471,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D66
+    D65
 *************************************************************
 

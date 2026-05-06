@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=3V3 Pin=Liquid-3
+Removed Pin From Net: NetName=LIQ Pin=R_DD1-1
+Removed Pin From Net: NetName=LIQ_SIG Pin=R_DD1-2
+Removed Pin From Net: NetName=LIQ_SIG Pin=R_DD2-1
+Removed Pin From Net: NetName=GND Pin=R_DD2-2
+Removed Member From Class: ClassName=LPCOSensor3vValve Member=R_DD1
+Removed Member From Class: ClassName=LPCOSensor3vValve Member=R_DD2
+Change Component Comment : Designator=SPI Old Comment=Header BLE New Comment=Header SPI
+Added Component: Designator=R_DIVIDE1(RESC0805(2012)_L)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10000.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R_DIVIDE2(RESC0805(2012)_L)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10000.00 Ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=Liquid-3
+Added Pin To Net: NetName=GND Pin=R_DIVIDE1-1
+Added Pin To Net: NetName=LIQ_SIG Pin=R_DIVIDE1-2
+Added Pin To Net: NetName=LIQ_SIG Pin=R_DIVIDE2-1
+Added Pin To Net: NetName=LIQ Pin=R_DIVIDE2-2
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component R_DIVIDE1 10K 5% 0805(2012)
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component R_DIVIDE2 10K 5% 0805(2012)

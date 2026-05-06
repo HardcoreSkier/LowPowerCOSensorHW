@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=3V3 Pin=C_PWR3-1
+Removed Pin From Net: NetName=NetC_PWR2_2 Pin=C_PWR3-2
+Removed Pin From Net: NetName=UART2_TX Pin=UART2-1
+Removed Pin From Net: NetName=UART2_RX Pin=UART2-2
+Removed Member From Class: ClassName=LPCOSensor3vValve Member=C_PWR3
+Removed Member From Class: ClassName=LPCOSensor3vValve Member=UART2

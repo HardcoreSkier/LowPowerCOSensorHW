@@ -1,0 +1,17 @@
+Removed Member From Class: ClassName=LPCOSensor3vValve Member=THERMO_K
+Added Component: Designator=K1(KF1282542P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://jirorwxhqiillo5p.ldycdn.com/KF128-2.54-aidqpBpqKirRliSqmrqirlki.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CIXI KEFA ELECTRONICS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "KF128-2.54-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=T+ Pin=IC3-3
+Added Pin To Net: NetName=T+ Pin=K1-1
+Added Net: Name=T+
+Added Pin To Net: NetName=T- Pin=IC3-2
+Added Pin To Net: NetName=T- Pin=K1-2
+Added Net: Name=T-
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component K1 KF128-2.54-2P

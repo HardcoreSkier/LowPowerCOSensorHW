@@ -1,38 +1,14 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [LowPowerCOSensor3V.PrjPcb]
-   Generated File[LPCOSensor3vValve.GTO]
-   Generated File[LPCOSensor3vValve.GTP]
-   Generated File[LPCOSensor3vValve.GTS]
-   Generated File[LPCOSensor3vValve.GTL]
-   Generated File[LPCOSensor3vValve.GBL]
-   Generated File[LPCOSensor3vValve.GBS]
-   Generated File[LPCOSensor3vValve.GBP]
-   Generated File[LPCOSensor3vValve.GBO]
-   Generated File[LPCOSensor3vValve.GM1]
-   Generated File[LPCOSensor3vValve.GM3]
-   Generated File[LPCOSensor3vValve.GM4]
-   Generated File[LPCOSensor3vValve.GM5]
-   Generated File[LPCOSensor3vValve.GM11]
-   Generated File[LPCOSensor3vValve.GM12]
-   Generated File[LPCOSensor3vValve.GM13]
-   Generated File[LPCOSensor3vValve.GM15]
-   Generated File[LPCOSensor3vValve.GM16]
-   Generated File[LPCOSensor3vValve.GM20]
-   Generated File[LPCOSensor3vValve.GM21]
-   Generated File[LPCOSensor3vValve.GM23]
-   Generated File[LPCOSensor3vValve.GM24]
-   Generated File[LPCOSensor3vValve.GKO]
-   Generated File[LPCOSensor3vValve.GPT]
-   Generated File[LPCOSensor3vValve.GPB]
-   Generated File[LPCOSensor3vValve.GD1]
-   Generated File[LPCOSensor3vValve.GG1]
-   Generated File[LPCOSensor3vValve.GM]
-   Generated File[LPCOSensor3vValve.EXTREP]
-   Generated File[LPCOSensor3vValve.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [LowPowerCOSensor3V.PrjPcb]
+   Generated File[LPCOSensor3vValve-RoundHoles.TXT]
+   Generated File[LPCOSensor3vValve-SlotHoles.TXT]
+   Generated File[LPCOSensor3vValve.DRL]
+   Generated File[LPCOSensor3vValve.LDP]
+   Generated File[LPCOSensor3vValve.DRR]
 
 
-Files Generated   : 29
+Files Generated   : 5
 Documents Printed : 0
 
-Finished Output Generation At 2:36:34 PM On 4/12/2026
+Finished Output Generation At 9:50:24 PM On 4/21/2026

@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=C_PWR1-1
+Removed Pin From Net: NetName=5V Pin=C_PWR1-2
+Change Component Footprint: Designator=C_PWR1 Old Footprint=FP-TGK16-MFG New Footprint=WCAP-HSAH_D6.3H7.7
+Change Component Comment : Designator=C_PWR1 Old Comment=EEV-TG1C222M New Comment=875585345004
+Change Managed Component Library Link : Designator=C_PWR1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=78FB857E-A579-42A4-A41D-3E23465217F3 New ItemGUID=5B21C1A4-20B8-4F6B-8843-25E1BD8D9515 Old RevisionGUID=D3B6AD91-28A9-4DFC-9179-7ADB226AA46B New RevisionGUID=46301B2C-1DF6-4F73-A5A6-F551CD2A058C
+Change component parameters: Designator = "C_PWR1" ("C_PWR1"); Footprint = "FP-TGK16-MFG"; UniqueID = "\FLQLTCRI" ("\FLQLTCRI")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "220¶ÃF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diameter"; Value = "6.3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "30m¶∏"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leakage Current"; Value = "35.2¶ÃA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "7.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°„C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°„C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "1.4A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "6.5mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=C_PWR1-1
+Added Pin To Net: NetName=GND Pin=C_PWR1-2
