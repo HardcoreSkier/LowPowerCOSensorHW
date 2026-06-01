@@ -1,0 +1,73 @@
+Removed Pin From Net: NetName=FIRE_EXT_FET Pin=C_FILTER1-1
+Removed Pin From Net: NetName=GND Pin=C_FILTER1-2
+Removed Pin From Net: NetName=GND Pin=C_RST1-1
+Removed Pin From Net: NetName=NRST Pin=C_RST1-2
+Change Component Footprint: Designator=C_FILTER1 Old Footprint=CAPC2013X88X50LL20T25 New Footprint=CAPC2013X145X48NL20T23
+Change Component Footprint: Designator=C_RST1 Old Footprint=CAPC2013X88X50LL20T25 New Footprint=CAPC2013X145X48NL20T23
+Change Component Footprint: Designator=R_CC1 Old Footprint=FP-RN73R2A-IPC_C New Footprint=FP-CRCW0805-HPe3-MFG
+Change Component Footprint: Designator=R_CC2 Old Footprint=FP-RN73R2A-IPC_C New Footprint=FP-CRCW0805-HPe3-MFG
+Change Component Footprint: Designator=C_PWR1 Old Footprint=WCAP-HSAH_D6.3H7.7 New Footprint=WCAP-ASLL_D12.5H14
+Change Component Comment : Designator=C_PWR1 Old Comment=875585345004 New Comment=865060762009
+Change Component Comment : Designator=C_FILTER1 Old Comment=C0805C104K5RALTU New Comment=VJ0805Y104MXAAT
+Change Component Comment : Designator=C_RST1 Old Comment=C0805C104K5RALTU New Comment=VJ0805Y104MXAAT
+Change Component Comment : Designator=R_CC1 Old Comment=RN73R2ATTD5101A05 New Comment=CRCW08055K10JNEAHP
+Change Component Comment : Designator=R_CC2 Old Comment=RN73R2ATTD5101A05 New Comment=CRCW08055K10JNEAHP
+Change Managed Component Library Link : Designator=C_FILTER1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=107A771E-3306-46D4-8578-BFE02E5E0B9E New ItemGUID=96C243E6-7CC1-45FA-95FF-9783B8EFA6E8 Old RevisionGUID=63B21476-9FE2-4713-9072-AAE34F0B0746 New RevisionGUID=9EC0C635-1D0B-4E6C-B0E8-7B22F10F5383
+Change Managed Component Library Link : Designator=C_PWR1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=5B21C1A4-20B8-4F6B-8843-25E1BD8D9515 New ItemGUID=3268B492-7AD7-4DA0-9D69-9FE883484B0F Old RevisionGUID=46301B2C-1DF6-4F73-A5A6-F551CD2A058C New RevisionGUID=39CED475-4F15-4BD5-B998-B160EBA68A3C
+Change Managed Component Library Link : Designator=C_RST1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=107A771E-3306-46D4-8578-BFE02E5E0B9E New ItemGUID=96C243E6-7CC1-45FA-95FF-9783B8EFA6E8 Old RevisionGUID=63B21476-9FE2-4713-9072-AAE34F0B0746 New RevisionGUID=9EC0C635-1D0B-4E6C-B0E8-7B22F10F5383
+Change Managed Component Library Link : Designator=R_CC1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=FD50B228-DF07-4067-B7FC-850EA1FCD5ED New ItemGUID=20535746-90BF-441D-8840-75EAEFB5CF2D Old RevisionGUID=8EA2C523-5862-4721-8FC3-ABFA80BC0E8F New RevisionGUID=2A8A261B-5AD5-489A-8D93-96179FC89E0B
+Change Managed Component Library Link : Designator=R_CC2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=FD50B228-DF07-4067-B7FC-850EA1FCD5ED New ItemGUID=20535746-90BF-441D-8840-75EAEFB5CF2D Old RevisionGUID=8EA2C523-5862-4721-8FC3-ABFA80BC0E8F New RevisionGUID=2A8A261B-5AD5-489A-8D93-96179FC89E0B
+Change component parameters: Designator = "C_FILTER1" ("C_FILTER1"); Footprint = "CAPC2013X88X50LL20T25"; UniqueID = "\JVORDFZW" ("\JVORDFZW")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "VJ0805Y104MXAAT"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C_PWR1" ("C_PWR1"); Footprint = "WCAP-HSAH_D6.3H7.7"; UniqueID = "\MVUTDXIQ" ("\MVUTDXIQ")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "220¶ÃF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diameter"; Value = "12.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "160m¶∏"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "454.545k¶∏"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leakage Current"; Value = "138.6¶ÃA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "14mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "830mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "63V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "13.5mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C_RST1" ("C_RST1"); Footprint = "CAPC2013X88X50LL20T25"; UniqueID = "\LAIZIAKH" ("\LAIZIAKH")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "VJ0805Y104MXAAT"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R_CC1" ("R_CC1"); Footprint = "FP-RN73R2A-IPC_C"; UniqueID = "\ILHIEQYA" ("\ILHIEQYA")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.024inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.079inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°„C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "500mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°„C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "5.1kR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "200ppm/°„C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R_CC2" ("R_CC2"); Footprint = "FP-RN73R2A-IPC_C"; UniqueID = "\NQLQPKMX" ("\NQLQPKMX")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.024inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.079inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°„C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "500mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°„C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "5.1kR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "200ppm/°„C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C_FILTER1-1
+Added Pin To Net: NetName=FIRE_EXT_FET Pin=C_FILTER1-2
+Added Pin To Net: NetName=NRST Pin=C_RST1-1
+Added Pin To Net: NetName=GND Pin=C_RST1-2

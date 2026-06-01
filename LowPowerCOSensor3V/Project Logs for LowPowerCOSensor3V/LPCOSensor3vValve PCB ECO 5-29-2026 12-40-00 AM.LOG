@@ -1,0 +1,99 @@
+Removed Pin From Net: NetName=3V3 Pin=BLE-4
+Removed Pin From Net: NetName=NRST Pin=C_RST1-1
+Removed Pin From Net: NetName=GND Pin=C_RST1-2
+Removed Pin From Net: NetName=GND Pin=R_BOOT1-1
+Removed Pin From Net: NetName=NetMCU1_1 Pin=R_BOOT1-2
+Change Component Footprint: Designator=MCU1 Old Footprint=STM-TSSOP20_M New Footprint=SOP65P640X120-20N
+Change Component Comment : Designator=MCU1 Old Comment=STM32F031F6P6TR New Comment=STM32L031F6P6
+Change Managed Component Library Link : Designator=MCU1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=ED3EC223-EE7E-46FF-8D9F-D10F3041760D New ItemGUID= Old RevisionGUID=6B5F7AC2-F2C2-4742-BF9B-690CC56B61EF New RevisionGUID=
+Change component parameters: Designator = "MCU1" ("MCU1"); Footprint = "STM-TSSOP20_M"; UniqueID = "\WGDOCFYL" ("\WGDOCFYL")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "STM32L031F6P6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/stm32l031f6p6/stmicroelectronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/resource/en/datasheet/stm32l031g4.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32L031F6P6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "511-STM32L031F6P6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32L031F6P6?qs=dTJS0cRn7ohDt6e1EJh76Q%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(AO-SOT-23-3L_V)
+Add component (AddParameter): Name = "Channel Mode"; Value = "Enhancement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Continuous Drain Current"; Value = "4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.aosmd.com/res/data_sheets/AO3401A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 3, 03/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain Current (Max)"; Value = "4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain Efficiency"; Value = "NotRequired%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain-Source On-Res"; Value = "0.044ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain-Source On-Volt"; Value = "30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency (Max)"; Value = "NotRequiredMHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gate-Source Voltage (Max)"; Value = "?12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Alpha and Omega"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.aosmd.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Noise Figure"; Value = "NotRequireddB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of  Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp Range"; Value = "-55Cto150C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Classification"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Power (Max)"; Value = "NotRequiredW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "3-Pin Small Outline Transistor, Body 2.95 x 1.6 mm, Pitch 0.95 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SOT-23-3L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "http://www.aosmd.com/res/packaging_information/SOT-23-3L.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "1.4W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Gain"; Value = "NotRequireddB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rad Hardened"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PowerMOSFET"; VariantName = "[No Variations]"
+Added Component: Designator=R_BLEGNDCTRL(FP-RMCF0805-IPC_B)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.026inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.079inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°„C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°„C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "180R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RMCF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "200ppm/°„C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Added Component: Designator=R_Q1(RESC0805(2012)_L)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10000.00 Ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C_RST1-1
+Added Pin To Net: NetName=NRST Pin=C_RST1-2
+Added Pin To Net: NetName=3V3 Pin=Q1-2
+Added Pin To Net: NetName=NetMCU1_1 Pin=R_BOOT1-1
+Added Pin To Net: NetName=GND Pin=R_BOOT1-2
+Added Pin To Net: NetName=3V3 Pin=R_Q1-1
+Added Pin To Net: NetName=ATREBOOT Pin=MCU1-3
+Added Pin To Net: NetName=ATREBOOT Pin=R_BLEGNDCTRL-1
+Added Net: Name=ATREBOOT
+Added Pin To Net: NetName=BLEVCC Pin=BLE-4
+Added Pin To Net: NetName=BLEVCC Pin=Q1-3
+Added Net: Name=BLEVCC
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R_BLEGNDCTRL-2
+Added Pin To Net: NetName=NetQ1_1 Pin=R_Q1-2
+Added Net: Name=NetQ1_1
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component Q1 AO3401A
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component R_BLEGNDCTRL RMCF0805JT180R
+Added Member To Class: ClassName=LPCOSensor3vValve Member=Component R_Q1 10K 5% 0805(2012)

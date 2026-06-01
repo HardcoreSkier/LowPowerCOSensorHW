@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: LPCOSensor3vValve.PcbDoc   4/21/2026  9:50:24 PM
+NCDrill File Report For: LPCOSensor3vValve.PcbDoc   5/29/2026  8:31:27 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -9,12 +9,12 @@ EIA File   : LPCOSensor3vValve.DRL
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      10mil (0.254mm)                                           Round             23        PTH        3.81inch (96.78mm)
+T1      10mil (0.254mm)                                           Round             39        PTH        5.61inch (142.39mm)
 T2      20mil (0.5mm)                                             Slot              2         PTH        0.74inch (18.71mm)
-T3      35mil (0.9mm)                                             Round             4         PTH        0.30inch (7.62mm)
-T4      40mil (1.02mm)                                            Round             11        PTH        1.62inch (41.07mm)
-T5      51mil (1.3mm)                                             Round             7         PTH        1.48inch (37.61mm)
+T3      35mil (0.9mm)                                             Round             11        PTH        1.39inch (35.20mm)
+T4      40mil (1.02mm)                                            Round             11        PTH        1.46inch (36.97mm)
+T5      51mil (1.3mm)                                             Round             4         PTH        0.80inch (20.26mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              47
+Totals                                                                              67
 
 Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=5V Pin=C_PWR1-1
+Removed Pin From Net: NetName=GND Pin=C_PWR1-2
+Change Component Footprint: Designator=C_PWR1 Old Footprint=WCAP-ASLL_D12.5H14 New Footprint=FP-OS-CON-SMT-C6-MFG
+Change Component Comment : Designator=C_PWR1 Old Comment=865060762009 New Comment=16SVPG220M
+Change Managed Component Library Link : Designator=C_PWR1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=3268B492-7AD7-4DA0-9D69-9FE883484B0F New ItemGUID=07DB9607-4535-46A6-B99B-BD36E0888516 Old RevisionGUID=39CED475-4F15-4BD5-B998-B160EBA68A3C New RevisionGUID=92170CFB-00E4-43F2-B5D1-C573FCD7A9AA
+Change component parameters: Designator = "C_PWR1" ("C_PWR1"); Footprint = "WCAP-ASLL_D12.5H14"; UniqueID = "\BFAPIJQL" ("\BFAPIJQL")
+Added Pin To Net: NetName=GND Pin=C_PWR1-1
+Added Pin To Net: NetName=5V Pin=C_PWR1-2
